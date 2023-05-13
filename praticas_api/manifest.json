@@ -1,0 +1,64 @@
+{
+  "background_color": "#ffffff",
+  "description": "Lista de livros",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "peppy-medovik",
+  "orientation": "any",
+  "scope": "index.html",
+  "short_name": "peppy",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "/img/128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/167.png",
+      "sizes": "167x167",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/img/192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/img/256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "pt",
+  "iarc_rating_id": "Any",
+  "display_override": [
+    "standalone"
+  ]
+}
